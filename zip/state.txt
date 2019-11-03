@@ -2492,3 +2492,5 @@ http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_MPM_RTM_LMP&market_run_i
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_MPM_RTM_LMP&market_run_id=HASP&grp_type=ALL_APNODES&startdatetime=20191027T06:00-0000&enddatetime=20191028T07:00-0000&version=1
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_MPM_RTM_LMP&market_run_id=HASP&grp_type=ALL_APNODES&startdatetime=20191028T06:00-0000&enddatetime=20191029T07:00-0000&version=1
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_MPM_RTM_LMP&market_run_id=HASP&grp_type=ALL_APNODES&startdatetime=20191029T06:00-0000&enddatetime=20191030T07:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_MPM_RTM_LMP&market_run_id=HASP&grp_type=ALL_APNODES&startdatetime=20191030T06:00-0000&enddatetime=20191031T07:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_MPM_RTM_LMP&market_run_id=HASP&grp_type=ALL_APNODES&startdatetime=20191031T06:00-0000&enddatetime=20191101T07:00-0000&version=1
